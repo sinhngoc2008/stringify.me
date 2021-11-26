@@ -1,14 +1,14 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "SinhNgocNguyen",
+		"label": "Software Engineer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
+		"email": "sinhngoc.nguyen@gmail.com",
+		"phone": "(+82) 010-2739-9186",
+		"website": "https://stmx.net/",
+		"twitter": "https://twitter.com/sinhngoc2008",
+		"facebook": "https://www.facebook.com/sinhngoc2008",
+		"github": "http://github.com/sinhngoc2008",
 		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
 	},
 	"theme": {
